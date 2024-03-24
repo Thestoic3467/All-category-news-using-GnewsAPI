@@ -41,7 +41,6 @@ let newsCategory = [
   "hatke",
   "science",
   "automobile",
-  "government",
 ];
 
 // Create XMLHttpRequest Object
